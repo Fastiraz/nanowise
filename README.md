@@ -27,7 +27,7 @@
 1. Open Zed.
 2. `cmd+shift+p` and select _zed: extensions_
 3. Select _Nanowise Themes_ and Install
-4. Select your Catppuccin theme in the dropdown shown after hitting ( `cmd+k`, `cmd+t` )
+4. Select your Nanowise theme in the dropdown shown after hitting ( `cmd+k`, `cmd+t` )
 
 ### Install Manually
 
@@ -37,7 +37,7 @@
    ```
 2. Download the [nanowise.json](./themes/nanowise.json) file into the theme folder.
 3. Open Zed.
-4. Select your Catppuccin theme in the dropdown shown after hitting ( `cmd+k`, `cmd+t` )
+4. Select your Nanowise theme in the dropdown shown after hitting ( `cmd+k`, `cmd+t` )
 
 ## Thanks to
 
