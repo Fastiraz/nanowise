@@ -1,0 +1,7 @@
+name = "Nanowise Themes"
+version = "0.1.1"
+authors = ["Fastiraz"]
+description = "🌔 The galaxy in Zed."
+repository = "https://github.com/Fastiraz/nanowise"
+id = "nanowise-themes"
+schema_version = 1
